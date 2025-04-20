@@ -21,7 +21,6 @@
     - [Clone the repo](#clone-the-repo)
 - [Usage](#usage)
   - [Notes](#notes)
-- [Example of code](#example-of-code)
 - [Contributing](#contributing)
 - [Bug / Issue Reporting](#bug--issue-reporting)
 - [License](#license)
@@ -30,12 +29,7 @@
 
 ## Overview
 Increase build number in Visual studio project file.
-Make usre there is the following line in project file:
-```xml
-  <PropertyGroup>
-    <VersionPrefix>0.1.0</VersionPrefix>
-  </PropertyGroup>
-```
+
 
 ## Features
 
@@ -54,10 +48,30 @@ git clone https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git
 ```
 
 ## Usage
+To use this tool to increase the build number in your Visual Studio project file, follow these steps:
+
+1. **Ensure the Project File is Configured**  
+   Make sure your `.csproj` file contains the following line in the `<PropertyGroup>` section:
+   ```xml
+   <PropertyGroup>
+     <VersionPrefix>0.1.0</VersionPrefix>
+   </PropertyGroup>
+   ```
+
+2. **Run the Tool**  
+   Execute the tool to automatically increment the build number. Use the following command:
+   
+       dotnet run --project <PathToYourProjectFile>
+
+   Replace `<PathToYourProjectFile>` with the path to your `.csproj` file.
+
+3. **Verify the Changes**  
+   Open your `.csproj` file and confirm that the build number has been incremented in the `VersionPrefix` or `Version` property.
 
 ### Notes
+- Ensure you have .NET 9.0 or later installed.
+- The tool modifies the project file directly, so it's recommended to commit your changes before running the tool to avoid accidental data loss.
 
-## Example of code
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -69,7 +83,6 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## Bug / Issue Reporting  
-
 If you encounter a bug or have an issue to report, please follow these steps:  
 
 1. **Go to the Issues Page**  
