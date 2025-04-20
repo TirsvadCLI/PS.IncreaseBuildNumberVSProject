@@ -30,8 +30,13 @@
 ## Overview
 Increase build number in Visual studio project file.
 
-
 ## Features
+- **Automatic Build Number Increment**: Automatically increments the build number in the `<VersionPrefix>` element of your `.csproj` file.
+- **Version Validation**: Ensures the version follows the `Major.Minor.Build` format (e.g., `0.1.0`) before incrementing.
+- **Default Path Handling**: Automatically determines the project file path if not explicitly provided.
+- **Error Handling**: Provides detailed error messages for missing or invalid project files and version formats.
+- **Git Integration**: Automatically stages and commits the updated project file with a descriptive commit message.
+- **Customizable Parameters**: Allows specifying the project file path and organization name as parameters.
 
 ## Getting Started
 
@@ -124,7 +129,7 @@ Jens Tirsvad Nielsen - [LinkedIn][linkedin-url]
 [license-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jens-tirsvad-nielsen-13b795b9/
-[githubIssue-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/issues/
-[repos-size-shield]: https://img.shields.io/github/repo-size/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badg
+[githubIssue-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/issues/
+[repos-size-shield]: https://img.shields.io/github/repo-size/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badg
 
 [logo]: https://raw.githubusercontent.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/main/image/logo/32x32/logo.png
