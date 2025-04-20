@@ -99,19 +99,19 @@ Jens Tirsvad Nielsen - [LinkedIn][linkedin-url]
 ## Acknowledgments
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badge
-[contributors-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badge
-[forks-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/network/members
-[stars-shield]: https://img.shields.io/github/stars/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badge
-[stars-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badge
-[issues-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/issues
-[license-shield]: https://img.shields.io/github/license/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badge
-[license-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badge
+[contributors-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badge
+[forks-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/network/members
+[stars-shield]: https://img.shields.io/github/stars/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badge
+[stars-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badge
+[issues-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/issues
+[license-shield]: https://img.shields.io/github/license/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badge
+[license-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jens-tirsvad-nielsen-13b795b9/
-[githubIssue-url]: https://github.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/issues/
-[repos-size-shield]: https://img.shields.io/github/repo-size/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git?style=for-the-badg
+[githubIssue-url]: https://github.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/issues/
+[repos-size-shield]: https://img.shields.io/github/repo-size/TirsvadCLI/PS.IncreaseBuildNumberVSProject?style=for-the-badg
 
-[logo]: https://raw.githubusercontent.com/TirsvadCLI/TirsvadCLI/PS.IncreaseBuildNumberVSProject.git/main/image/logo/32x32/logo.png
+[logo]: https://raw.githubusercontent.com/TirsvadCLI/PS.IncreaseBuildNumberVSProject/main/image/logo/32x32/logo.png
