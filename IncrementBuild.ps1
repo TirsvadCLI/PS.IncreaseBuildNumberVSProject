@@ -81,15 +81,16 @@ try {
     ExitWaitForKey -ErrorMessage "Failed to save the updated project file."
 }
 
+#TODO make it optional
 # Commit and push the changes using Git.
-try {
-    Write-Output "Staging changes..."
-    & git add $ProjectFilePath
+#try {
+#    Write-Output "Staging changes..."
+#    & git add $ProjectFilePath
 
-    Write-Output "Creating commit..."
-    & git commit -m "Bump build number to $newVersion"
-} catch {
-    ExitWaitForKey -ErrorMessage "Failed to commit changes to the repository."
-}
+#    Write-Output "Creating commit..."
+#    & git commit -m "Bump build number to $newVersion"
+#} catch {
+#    ExitWaitForKey -ErrorMessage "Failed to commit changes to the repository."
+#}
 
 Start-Sleep -Seconds 3
